@@ -1,4 +1,0 @@
-sample2.1
-sample2.2
-sample2.3
-sample2.4
